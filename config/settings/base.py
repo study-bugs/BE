@@ -9,6 +9,7 @@ CUSTOM_APPS = [
     "apps.chat",
 ]
 
+
 SYSTEM_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
