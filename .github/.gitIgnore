@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,windows,django,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,windows,django,pycharm+all
 
+.idea
+
 ### Django ###
 *.log
 *.pot
